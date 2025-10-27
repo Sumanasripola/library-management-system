@@ -15,10 +15,10 @@ This is a simple front-end application for a Library Management System built wit
 Here are some images of the application in action.
 
 **Home Page (Main Dashboard & Book List)**
-**`![Home Page](./public/home.png)`**
+**![Home Page](./public/home.png)**
 
 **Add Book Page (Form)**
-**`![Add Book Page](./public/add.png)`**
+**![Add Book Page](./public/add.png)**
 
 ## 🧑‍💻 Developed By
 
